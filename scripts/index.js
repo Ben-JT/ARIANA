@@ -49,7 +49,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['FELIZ 21 DE MARZO', 'ARIANA!', config.name],
+      strings: ['FELIZ 21', 'ARIANA!', config.name],
       charSize: 33,
       charSpacing: 28,
       lineHeight: 40,
